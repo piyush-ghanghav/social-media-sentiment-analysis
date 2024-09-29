@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python bytecode
+*.pyc
+*.pyo
+
+# IDE or editor files (optional)
+.idea/
+.vscode/
+
+# Local configuration files
+*.env
+
+# Logs
+*.log
+
+# Output directories (add any other output directories you want to ignore)
+Encoded_dataset/
+Heatmap/
+Normalization/
+Sentiment_dataset/
+Sigmoid_output/
